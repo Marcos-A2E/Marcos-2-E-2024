@@ -1,0 +1,8 @@
+Possível viagem para a disney			25/03/2024
+viagem=int(input("informe valor para viagem")):
+if(viagem>=10 000):
+	print("eu vou fazer uma viagem para disney")
+elif(viagem==5 000):
+	print("eu vou visitar minha cidade natal")
+else
+	print("eu vou ficar em casa”)
